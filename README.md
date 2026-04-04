@@ -39,6 +39,7 @@
     
 ### **📁 증빙 자료:**
   * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+[파이썬 과제(AI협업)1.pdf](https://github.com/user-attachments/files/26480948/AI.1.pdf)
 
 <br>
 
