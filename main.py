@@ -2,8 +2,8 @@
 # 작 성 자 : 박준형
 
 #1 성과 입력
-planents_destroyed = int(input("💥파괴한 소행성 개수: ")
-humans_captured = int(input("👤생포한 지구인 수: ")
+planents_destroyed = int(input("💥파괴한 소행성 개수: "))
+humans_captured = int(input("👤생포한 지구인 수: "))
 
 #2 기본 수당 및 공제 계산
 base_pay = 500
