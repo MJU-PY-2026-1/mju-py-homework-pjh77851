@@ -107,8 +107,10 @@ print(f' 회사조치: {company_action}")
     * **해결:** 파이썬의 모든 조건문과 반복문 끝에는 항상 땡땡(`:`)이 들어가야 한다는 규칙을 학습하고 수정함.
      
 ### **📁 증빙 자료:**
-  * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [2차과제_실행결과.jpg]
+  * [2차_AI협업캡처.pdf 첨부 완료] [파이썬 과제(AI협업) 2차.pdf](https://github.com/user-attachments/files/27014584/AI.2.pdf)
+
+  * [2차과제_실행결과.jpg] [파이썬 결과 2차과제.pdf](https://github.com/user-attachments/files/27014598/2.pdf)
+
 <br>
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
