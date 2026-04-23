@@ -1,6 +1,7 @@
 # 파일이름 :
-# 작 성 자 :
-#1성과 입력
+# 작 성 자 : 박준형
+
+#1 성과 입력
 planents_destroyed = int(input("💥파괴한 소행성 개수: ")
 humans_captured = int(input("👤생포한 지구인 수: ")
 
