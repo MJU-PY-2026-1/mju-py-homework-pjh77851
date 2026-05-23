@@ -220,7 +220,8 @@ while True:
      * **해결:** .. :와 () 잘 적음
      
 ### **📁 증빙 자료:**
-  * [3차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * [3차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크) [파이썬 과제(AI협업) 3차.pdf](https://github.com/user-attachments/files/28175324/AI.3.pdf)
+
   * [3차과제_실행결과.jpg]
 <br>
 
