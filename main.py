@@ -50,8 +50,8 @@ total_years_served = 0
 
 def input_performance():
     print('💥[실적입력] 이번 달 당신이 저지른 악행을 보고하십시오.')
-    planets = int(input('파괴한 소행성 개수: ')    
-    humans = int(input('생포한 지구인 수: ')
+    planets = int(input('파괴한 소행성 개수: '))    
+    humans = int(input('생포한 지구인 수: '))
 
     base_pay = 500
     gross_pay = base_pay + (planets*2000) + (humans*500)
@@ -101,9 +101,9 @@ def analyze_career():
     print('[은하계 인사 분석 시스템]')
     print(f'-> 당신은 본사에서 현재 [{total_years_saved}년째] 착취당하는 중입니다.')
 
-    if employee_rank = 'F':
+    if employee_rank == 'F':
         print('⚠️경고: 현재 산소 부족상태로 다음 달 생존 확률이 42%입니다.')
-    elif employee_rank = 'S':
+    elif employee_rank == 'S':
         print('🎉분석: 임원진들이 당신의 우주선을 호시탐탐 노리고 있습니다.')
     else:
         print('👀 분석: 가늘고 길게 살아남는 중입니다. 노예로서 백점 만점!')
