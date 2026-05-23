@@ -116,7 +116,16 @@ print(f' 회사조치: {company_action}")
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
 ### **✨3차 과제 업데이트 내용:**
   * 내용.
-    
+import time
+# (전역 변수 설정) - 프로그램 전체에서 유지되는 사원 데이터
+employee = '없음'
+employee_net_pay = 0
+employee_action = '데이터 없음'
+total_years_served = 0
+
+def input_performance():
+    print('💥[실적입력] 이번 달 당신이 저지른 악행을 보고하십시오.')
+    planets = int(input('파괴한 소행성 개수: ')    
 ### **🤖 AI 파트너십 과정**
  1. **내용 1**
     * **프롬프트 요약:**  ... 
