@@ -222,7 +222,8 @@ while True:
 ### **📁 증빙 자료:**
   * [3차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크) [파이썬 과제(AI협업) 3차.pdf](https://github.com/user-attachments/files/28175324/AI.3.pdf)
 
-  * [3차과제_실행결과.jpg]
+  * [3차과제_실행결과.jpg] [파이썬 결과 3차과제.pdf](https://github.com/user-attachments/files/28175400/3.pdf)
+
 <br>
 
 ### 🟥 [4차 과제: V4.0] 모듈화 및 데이터 확장 (배열과 함수) - 🌟최종 완성 -- 향후 작성 예정
