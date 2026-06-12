@@ -326,6 +326,8 @@ while True:
      * **해결:** .. '' 작은 따옴표를 추가함
      
 ### **📁 증빙 자료:**
-  * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [4차과제_실행결과.jpg]
+  * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크) [파이썬 과제(AI협업) 4차.pdf](https://github.com/user-attachments/files/28862014/AI.4.pdf)
+
+  * [4차과제_실행결과.jpg] [파이썬 결과 4차과제.pdf](https://github.com/user-attachments/files/28861997/4.pdf)
+
 <br>
